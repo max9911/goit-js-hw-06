@@ -1,6 +1,6 @@
 const ingredients = [
   'Potatoes',
-  'Mus1`Q aZ|`rooms',
+  'Mushrooms',
   'Garlic',
   'Tomatos',
   'Herbs',

@@ -16,7 +16,7 @@ const div = document.querySelector(".gallery")
 
 const gal = images.map(({url,alt})=>`
 <li class="galitem">
-<img src="${url}" alt="${alt}">
+<img src="${url}" alt="${alt}" width=70% height= 70%>
 </li>`
 
 ).join('')
